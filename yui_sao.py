@@ -10,7 +10,7 @@ except ImportError:
     sys.exit()
 
 # --- CONFIGURATION ---
-API_KEY = "AIzaSyApXU6bxq5b1zmU3I--z9CQE-ONjUy99jM"
+API_KEY = ""
 
 # Moved instructions to a simple string for the first message
 YUI_PERSONA = (
